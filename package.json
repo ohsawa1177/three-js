@@ -5,7 +5,8 @@
   "scripts": {
     "start": "node app.js",
     "dev": "node app.js",
-    "deploy": "firebase deploy"
+    "deploy": "firebase deploy --only hosting --project=three-js-01"
+
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
