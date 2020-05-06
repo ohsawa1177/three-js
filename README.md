@@ -1,7 +1,7 @@
 # express three-js 
 
-expressでthree-jのsample
+expressでthree-jsのsample
 
-[hosting](https://three-js-01.web.app/)
+[hosting](https://three-js-01.web.app/ )
 
 
